@@ -7630,8 +7630,8 @@ export {
     , IconIceCreamOff
     , IconIceCream
     , IconIceSkating
-    , Icon, IconsOff
-    , Icon, Icons
+    , IconIconsOff
+    , IconIcons
     , IconIdBadge2
     , IconIdBadgeOff
     , IconIdBadge
