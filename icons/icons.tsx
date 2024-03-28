@@ -3780,7 +3780,7 @@ import IconPrompt from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/prompt.ts
 import IconPropellerOff from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/propeller-off.tsx"
 import IconPropeller from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/propeller.tsx"
 import IconPumpkinScary from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/pumpkin-scary.tsx"
-import IconP2 from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/puzzle-2.tsx"
+import IconPuzzle2 from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/puzzle-2.tsx"
 import IconPuzzleFilled from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/puzzle-filled.tsx"
 import IconPuzzleOff from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/puzzle-off.tsx"
 import IconPuzzle from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/puzzle.tsx"
@@ -8583,8 +8583,8 @@ export {
     , IconPlane
     , IconPlanetOff
     , IconPlanet
-    , IconP2Off
-    , IconP2
+    , IconPlant2Off
+    , IconPlant2
     , IconPlantOff
     , IconPlant
     , IconPlayBasketball
@@ -8689,7 +8689,7 @@ export {
     , IconPropellerOff
     , IconPropeller
     , IconPumpkinScary
-    , IconP2
+    , IconPuzzle2
     , IconPuzzleFilled
     , IconPuzzleOff
     , IconPuzzle
@@ -8935,12 +8935,12 @@ export {
     , IconSettings
     , IconShadowOff
     , IconShadow
-    , IconSha2
-    , IconSha3
+    , IconShape2
+    , IconShape3
     , IconShapeOff
     , IconShape
-    , IconSha2
-    , IconSha3
+    , IconShare2
+    , IconShare3
     , IconShareOff
     , IconShare
     , IconShiJumping
